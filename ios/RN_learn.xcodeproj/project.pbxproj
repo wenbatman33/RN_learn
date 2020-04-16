@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* myRNTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* myRNTests.m */; };
-		0331BC6E06D6C54700353E38 /* libPods-myRN.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 87C31C4E5C0D25F789C3455C /* libPods-myRN.a */; };
+		00E356F31AD99517003FC87E /* RN_learnTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RN_learnTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		1697503EFAC5C6441AF6545C /* libPods-myRN-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DC8B3F21B84AAE1A794DF2B /* libPods-myRN-tvOSTests.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* myRNTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* myRNTests.m */; };
-		922F202FA2D7358D2A7275C8 /* libPods-myRN-myRNTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 129D027877FB25A4DD0198D2 /* libPods-myRN-myRNTests.a */; };
-		CD3A9F4E667616D3F3366143 /* libPods-myRN-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F8A183FA11EE77B58A145E7C /* libPods-myRN-tvOS.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* RN_learnTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RN_learnTests.m */; };
+		682869B621C2A83E49031EED /* libPods-RN_learn-RN_learnTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4471C550E144BF21E87CA4EA /* libPods-RN_learn-RN_learnTests.a */; };
+		711717D240DD20F32BA1B318 /* libPods-RN_learn-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A3C3CF2B61FB2B933888AE2C /* libPods-RN_learn-tvOSTests.a */; };
+		A821CDAC528A24435C0C19AF /* libPods-RN_learn.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0AF5C49FFF1718397D3746FC /* libPods-RN_learn.a */; };
+		CB26C34878599971B5C7A96B /* libPods-RN_learn-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9932AE1A3BC181F825FECAF2 /* libPods-RN_learn-tvOS.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,45 +28,45 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = myRN;
+			remoteInfo = RN_learn;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "myRN-tvOS";
+			remoteInfo = "RN_learn-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* myRNTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myRNTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* RN_learnTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RN_learnTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* myRNTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = myRNTests.m; sourceTree = "<group>"; };
-		129D027877FB25A4DD0198D2 /* libPods-myRN-myRNTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-myRN-myRNTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07F961A680F5B00A75B9A /* myRN.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myRN.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = myRN/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = myRN/AppDelegate.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* RN_learnTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RN_learnTests.m; sourceTree = "<group>"; };
+		0AF5C49FFF1718397D3746FC /* libPods-RN_learn.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RN_learn.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C22789703A4BB20468C2782 /* Pods-RN_learn-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN_learn-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-RN_learn-tvOS/Pods-RN_learn-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* RN_learn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RN_learn.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = RN_learn/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = RN_learn/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = myRN/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = myRN/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = myRN/main.m; sourceTree = "<group>"; };
-		1DC8B3F21B84AAE1A794DF2B /* libPods-myRN-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-myRN-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		20A996240B6A2E97B4502168 /* Pods-myRN.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myRN.debug.xcconfig"; path = "Target Support Files/Pods-myRN/Pods-myRN.debug.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* myRN-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "myRN-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* myRN-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "myRN-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		4BA9CB20E01656C195A1E136 /* Pods-myRN-myRNTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myRN-myRNTests.debug.xcconfig"; path = "Target Support Files/Pods-myRN-myRNTests/Pods-myRN-myRNTests.debug.xcconfig"; sourceTree = "<group>"; };
-		8772B440F03C6ADAAAF19D9A /* Pods-myRN-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myRN-tvOS.release.xcconfig"; path = "Target Support Files/Pods-myRN-tvOS/Pods-myRN-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		87C31C4E5C0D25F789C3455C /* libPods-myRN.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-myRN.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		90FB078054453F26B23C894D /* Pods-myRN-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myRN-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-myRN-tvOSTests/Pods-myRN-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
-		A69EF5FC5CBA2FED41AA819B /* Pods-myRN-myRNTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myRN-myRNTests.release.xcconfig"; path = "Target Support Files/Pods-myRN-myRNTests/Pods-myRN-myRNTests.release.xcconfig"; sourceTree = "<group>"; };
-		DA2841495F8F9BB12CE2E8A7 /* Pods-myRN-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myRN-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-myRN-tvOS/Pods-myRN-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		E6BE510ADFF9D5A170F1F1EC /* Pods-myRN.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myRN.release.xcconfig"; path = "Target Support Files/Pods-myRN/Pods-myRN.release.xcconfig"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = RN_learn/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = RN_learn/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = RN_learn/main.m; sourceTree = "<group>"; };
+		168F4FD08E35CF3D04FFCCD5 /* Pods-RN_learn-RN_learnTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN_learn-RN_learnTests.debug.xcconfig"; path = "Target Support Files/Pods-RN_learn-RN_learnTests/Pods-RN_learn-RN_learnTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* RN_learn-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RN_learn-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* RN_learn-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RN_learn-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4471C550E144BF21E87CA4EA /* libPods-RN_learn-RN_learnTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RN_learn-RN_learnTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4622CF64359E54E2FE44D644 /* Pods-RN_learn.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN_learn.debug.xcconfig"; path = "Target Support Files/Pods-RN_learn/Pods-RN_learn.debug.xcconfig"; sourceTree = "<group>"; };
+		637B24397FEDF45AE719D262 /* Pods-RN_learn-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN_learn-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-RN_learn-tvOSTests/Pods-RN_learn-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		7B26807ADF2C78BF21A5AAEC /* Pods-RN_learn-RN_learnTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN_learn-RN_learnTests.release.xcconfig"; path = "Target Support Files/Pods-RN_learn-RN_learnTests/Pods-RN_learn-RN_learnTests.release.xcconfig"; sourceTree = "<group>"; };
+		7DDCB0241998A248E39F7888 /* Pods-RN_learn.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN_learn.release.xcconfig"; path = "Target Support Files/Pods-RN_learn/Pods-RN_learn.release.xcconfig"; sourceTree = "<group>"; };
+		9932AE1A3BC181F825FECAF2 /* libPods-RN_learn-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RN_learn-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3C3CF2B61FB2B933888AE2C /* libPods-RN_learn-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RN_learn-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BE31F328E5A73024CCC4836F /* Pods-RN_learn-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN_learn-tvOS.release.xcconfig"; path = "Target Support Files/Pods-RN_learn-tvOS/Pods-RN_learn-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		ECAE7EF0C91244C7C4D3D9E3 /* Pods-RN_learn-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RN_learn-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-RN_learn-tvOSTests/Pods-RN_learn-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		F8A183FA11EE77B58A145E7C /* libPods-myRN-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-myRN-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FD2BCCA023D7A8ADFD278FDE /* Pods-myRN-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myRN-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-myRN-tvOSTests/Pods-myRN-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				922F202FA2D7358D2A7275C8 /* libPods-myRN-myRNTests.a in Frameworks */,
+				682869B621C2A83E49031EED /* libPods-RN_learn-RN_learnTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -82,7 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0331BC6E06D6C54700353E38 /* libPods-myRN.a in Frameworks */,
+				A821CDAC528A24435C0C19AF /* libPods-RN_learn.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -90,7 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CD3A9F4E667616D3F3366143 /* libPods-myRN-tvOS.a in Frameworks */,
+				CB26C34878599971B5C7A96B /* libPods-RN_learn-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,20 +98,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1697503EFAC5C6441AF6545C /* libPods-myRN-tvOSTests.a in Frameworks */,
+				711717D240DD20F32BA1B318 /* libPods-RN_learn-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* myRNTests */ = {
+		00E356EF1AD99517003FC87E /* RN_learnTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* myRNTests.m */,
+				00E356F21AD99517003FC87E /* RN_learnTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = myRNTests;
+			path = RN_learnTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -122,7 +122,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* myRN */ = {
+		13B07FAE1A68108700A75B9A /* RN_learn */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -133,7 +133,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = myRN;
+			name = RN_learn;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -141,28 +141,12 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				87C31C4E5C0D25F789C3455C /* libPods-myRN.a */,
-				129D027877FB25A4DD0198D2 /* libPods-myRN-myRNTests.a */,
-				F8A183FA11EE77B58A145E7C /* libPods-myRN-tvOS.a */,
-				1DC8B3F21B84AAE1A794DF2B /* libPods-myRN-tvOSTests.a */,
+				0AF5C49FFF1718397D3746FC /* libPods-RN_learn.a */,
+				4471C550E144BF21E87CA4EA /* libPods-RN_learn-RN_learnTests.a */,
+				9932AE1A3BC181F825FECAF2 /* libPods-RN_learn-tvOS.a */,
+				A3C3CF2B61FB2B933888AE2C /* libPods-RN_learn-tvOSTests.a */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		4BBBB7D74EFF2960DBC40DC7 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				20A996240B6A2E97B4502168 /* Pods-myRN.debug.xcconfig */,
-				E6BE510ADFF9D5A170F1F1EC /* Pods-myRN.release.xcconfig */,
-				4BA9CB20E01656C195A1E136 /* Pods-myRN-myRNTests.debug.xcconfig */,
-				A69EF5FC5CBA2FED41AA819B /* Pods-myRN-myRNTests.release.xcconfig */,
-				DA2841495F8F9BB12CE2E8A7 /* Pods-myRN-tvOS.debug.xcconfig */,
-				8772B440F03C6ADAAAF19D9A /* Pods-myRN-tvOS.release.xcconfig */,
-				FD2BCCA023D7A8ADFD278FDE /* Pods-myRN-tvOSTests.debug.xcconfig */,
-				90FB078054453F26B23C894D /* Pods-myRN-tvOSTests.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -175,12 +159,12 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* myRN */,
+				13B07FAE1A68108700A75B9A /* RN_learn */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* myRNTests */,
+				00E356EF1AD99517003FC87E /* RN_learnTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
-				4BBBB7D74EFF2960DBC40DC7 /* Pods */,
+				F27CFB7104C691BD0FA90959 /* Pods */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -190,22 +174,38 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* myRN.app */,
-				00E356EE1AD99517003FC87E /* myRNTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* myRN-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* myRN-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* RN_learn.app */,
+				00E356EE1AD99517003FC87E /* RN_learnTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* RN_learn-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* RN_learn-tvOSTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		F27CFB7104C691BD0FA90959 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				4622CF64359E54E2FE44D644 /* Pods-RN_learn.debug.xcconfig */,
+				7DDCB0241998A248E39F7888 /* Pods-RN_learn.release.xcconfig */,
+				168F4FD08E35CF3D04FFCCD5 /* Pods-RN_learn-RN_learnTests.debug.xcconfig */,
+				7B26807ADF2C78BF21A5AAEC /* Pods-RN_learn-RN_learnTests.release.xcconfig */,
+				0C22789703A4BB20468C2782 /* Pods-RN_learn-tvOS.debug.xcconfig */,
+				BE31F328E5A73024CCC4836F /* Pods-RN_learn-tvOS.release.xcconfig */,
+				ECAE7EF0C91244C7C4D3D9E3 /* Pods-RN_learn-tvOSTests.debug.xcconfig */,
+				637B24397FEDF45AE719D262 /* Pods-RN_learn-tvOSTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* myRNTests */ = {
+		00E356ED1AD99517003FC87E /* RN_learnTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "myRNTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "RN_learnTests" */;
 			buildPhases = (
-				CD25E5EC9273F3B5D72DE6FA /* [CP] Check Pods Manifest.lock */,
+				B653B4D672D33EE3DADD891F /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
@@ -215,16 +215,16 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = myRNTests;
-			productName = myRNTests;
-			productReference = 00E356EE1AD99517003FC87E /* myRNTests.xctest */;
+			name = RN_learnTests;
+			productName = RN_learnTests;
+			productReference = 00E356EE1AD99517003FC87E /* RN_learnTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* myRN */ = {
+		13B07F861A680F5B00A75B9A /* RN_learn */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "myRN" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "RN_learn" */;
 			buildPhases = (
-				1A4FB8CF60F781A2C58A22BD /* [CP] Check Pods Manifest.lock */,
+				F990BBAC6D0C1C112403544F /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
@@ -235,16 +235,16 @@
 			);
 			dependencies = (
 			);
-			name = myRN;
-			productName = myRN;
-			productReference = 13B07F961A680F5B00A75B9A /* myRN.app */;
+			name = RN_learn;
+			productName = RN_learn;
+			productReference = 13B07F961A680F5B00A75B9A /* RN_learn.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* myRN-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* RN_learn-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "myRN-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RN_learn-tvOS" */;
 			buildPhases = (
-				D16B8A0E1C19CA0DC57BAFE4 /* [CP] Check Pods Manifest.lock */,
+				2EB572C4D5B2C96A076BCB0B /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
 				2D02E4781E0B4A5D006451C7 /* Frameworks */,
@@ -255,16 +255,16 @@
 			);
 			dependencies = (
 			);
-			name = "myRN-tvOS";
-			productName = "myRN-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* myRN-tvOS.app */;
+			name = "RN_learn-tvOS";
+			productName = "RN_learn-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* RN_learn-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* myRN-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* RN_learn-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "myRN-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RN_learn-tvOSTests" */;
 			buildPhases = (
-				EC1871C9AD04C1B2BECE9D68 /* [CP] Check Pods Manifest.lock */,
+				0DB6A25B9FBECD7A949F40B7 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
 				2D02E48E1E0B4A5D006451C7 /* Resources */,
@@ -274,9 +274,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "myRN-tvOSTests";
-			productName = "myRN-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* myRN-tvOSTests.xctest */;
+			name = "RN_learn-tvOSTests";
+			productName = "RN_learn-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* RN_learn-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -305,7 +305,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "myRN" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "RN_learn" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -318,10 +318,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* myRN */,
-				00E356ED1AD99517003FC87E /* myRNTests */,
-				2D02E47A1E0B4A5D006451C7 /* myRN-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* myRN-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* RN_learn */,
+				00E356ED1AD99517003FC87E /* RN_learnTests */,
+				2D02E47A1E0B4A5D006451C7 /* RN_learn-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* RN_learn-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -375,7 +375,7 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		1A4FB8CF60F781A2C58A22BD /* [CP] Check Pods Manifest.lock */ = {
+		0DB6A25B9FBECD7A949F40B7 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -390,7 +390,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-myRN-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-RN_learn-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -411,7 +411,7 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		CD25E5EC9273F3B5D72DE6FA /* [CP] Check Pods Manifest.lock */ = {
+		2EB572C4D5B2C96A076BCB0B /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -426,14 +426,14 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-myRN-myRNTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-RN_learn-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		D16B8A0E1C19CA0DC57BAFE4 /* [CP] Check Pods Manifest.lock */ = {
+		B653B4D672D33EE3DADD891F /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -448,14 +448,14 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-myRN-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-RN_learn-RN_learnTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		EC1871C9AD04C1B2BECE9D68 /* [CP] Check Pods Manifest.lock */ = {
+		F990BBAC6D0C1C112403544F /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -470,7 +470,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-myRN-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-RN_learn-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -522,7 +522,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* myRNTests.m in Sources */,
+				00E356F31AD99517003FC87E /* RN_learnTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -548,7 +548,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* myRNTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* RN_learnTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -557,12 +557,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* myRN */;
+			target = 13B07F861A680F5B00A75B9A /* RN_learn */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* myRN-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* RN_learn-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -574,7 +574,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = myRN;
+			path = RN_learn;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -582,14 +582,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4BA9CB20E01656C195A1E136 /* Pods-myRN-myRNTests.debug.xcconfig */;
+			baseConfigurationReference = 168F4FD08E35CF3D04FFCCD5 /* Pods-RN_learn-RN_learnTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = myRNTests/Info.plist;
+				INFOPLIST_FILE = RN_learnTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -599,17 +599,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/myRN.app/myRN";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RN_learn.app/RN_learn";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A69EF5FC5CBA2FED41AA819B /* Pods-myRN-myRNTests.release.xcconfig */;
+			baseConfigurationReference = 7B26807ADF2C78BF21A5AAEC /* Pods-RN_learn-RN_learnTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = myRNTests/Info.plist;
+				INFOPLIST_FILE = RN_learnTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -619,13 +619,13 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/myRN.app/myRN";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RN_learn.app/RN_learn";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 20A996240B6A2E97B4502168 /* Pods-myRN.debug.xcconfig */;
+			baseConfigurationReference = 4622CF64359E54E2FE44D644 /* Pods-RN_learn.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -635,7 +635,7 @@
 					"$(inherited)",
 					"FB_SONARKIT_ENABLED=1",
 				);
-				INFOPLIST_FILE = myRN/Info.plist;
+				INFOPLIST_FILE = RN_learn/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -643,7 +643,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = myRN;
+				PRODUCT_NAME = RN_learn;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -652,12 +652,12 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E6BE510ADFF9D5A170F1F1EC /* Pods-myRN.release.xcconfig */;
+			baseConfigurationReference = 7DDCB0241998A248E39F7888 /* Pods-RN_learn.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = myRN/Info.plist;
+				INFOPLIST_FILE = RN_learn/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -665,7 +665,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = myRN;
+				PRODUCT_NAME = RN_learn;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -673,7 +673,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DA2841495F8F9BB12CE2E8A7 /* Pods-myRN-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 0C22789703A4BB20468C2782 /* Pods-RN_learn-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -684,14 +684,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "myRN-tvOS/Info.plist";
+				INFOPLIST_FILE = "RN_learn-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.myRN-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.RN_learn-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -701,7 +701,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8772B440F03C6ADAAAF19D9A /* Pods-myRN-tvOS.release.xcconfig */;
+			baseConfigurationReference = BE31F328E5A73024CCC4836F /* Pods-RN_learn-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -712,14 +712,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "myRN-tvOS/Info.plist";
+				INFOPLIST_FILE = "RN_learn-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.myRN-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.RN_learn-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -729,7 +729,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = FD2BCCA023D7A8ADFD278FDE /* Pods-myRN-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = ECAE7EF0C91244C7C4D3D9E3 /* Pods-RN_learn-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -739,24 +739,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "myRN-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "RN_learn-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.myRN-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.RN_learn-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/myRN-tvOS.app/myRN-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RN_learn-tvOS.app/RN_learn-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 90FB078054453F26B23C894D /* Pods-myRN-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 637B24397FEDF45AE719D262 /* Pods-RN_learn-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -766,17 +766,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "myRN-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "RN_learn-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.myRN-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.RN_learn-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/myRN-tvOS.app/myRN-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RN_learn-tvOS.app/RN_learn-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -897,7 +897,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "myRNTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "RN_learnTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -906,7 +906,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "myRN" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "RN_learn" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -915,7 +915,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "myRN-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RN_learn-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -924,7 +924,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "myRN-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RN_learn-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -933,7 +933,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "myRN" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "RN_learn" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

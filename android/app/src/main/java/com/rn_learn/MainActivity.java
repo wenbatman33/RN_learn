@@ -1,4 +1,4 @@
-package com.myrn;
+package com.rn_learn;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "myRN";
+    return "RN_learn";
   }
 }

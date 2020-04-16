@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "myRN-tvOS.app"
-               BlueprintName = "myRN-tvOS"
-               ReferencedContainer = "container:myRN.xcodeproj">
+               BuildableName = "RN_learn-tvOS.app"
+               BlueprintName = "RN_learn-tvOS"
+               ReferencedContainer = "container:RN_learn.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "myRN-tvOSTests.xctest"
-               BlueprintName = "myRN-tvOSTests"
-               ReferencedContainer = "container:myRN.xcodeproj">
+               BuildableName = "RN_learn-tvOSTests.xctest"
+               BlueprintName = "RN_learn-tvOSTests"
+               ReferencedContainer = "container:RN_learn.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "myRN-tvOS.app"
-            BlueprintName = "myRN-tvOS"
-            ReferencedContainer = "container:myRN.xcodeproj">
+            BuildableName = "RN_learn-tvOS.app"
+            BlueprintName = "RN_learn-tvOS"
+            ReferencedContainer = "container:RN_learn.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "myRN-tvOS.app"
-            BlueprintName = "myRN-tvOS"
-            ReferencedContainer = "container:myRN.xcodeproj">
+            BuildableName = "RN_learn-tvOS.app"
+            BlueprintName = "RN_learn-tvOS"
+            ReferencedContainer = "container:RN_learn.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
