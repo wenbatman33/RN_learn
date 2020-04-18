@@ -42,7 +42,7 @@ const App = () => {
 }
 
 const styles = StyleSheet.create({
-  mainViewStyle :{ 
+  mainViewStyle :{
     flex: 1,
     backgroundColor: '#ccc',
     justifyContent: 'flex-start'
